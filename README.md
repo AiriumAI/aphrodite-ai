@@ -53,7 +53,7 @@ For every dreamer, creator, and thinker who faces barriers in traditional learni
 ## Visual Sneak Peek
 
 ### Celestial Temple of Aphrodite 🌌
-![Aphrodite Temple](assets/temple-artwork.png)
+![Aphrodite Temple](temple-artwork.png)
 
 ### Features in Action
 1. **Babylon Flow Timeline**  
