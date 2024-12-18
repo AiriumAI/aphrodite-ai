@@ -50,9 +50,17 @@ For every dreamer, creator, and thinker who faces barriers in traditional learni
 
 ---
 
-## **Visual Sneak Peek**
-![Aphrodite Temple](assets/temple-artwork.png)  
-*The celestial temple of Aphrodite: a blend of Greek heritage and sci-fi grandeur.*
+## Visual Sneak Peek
+
+### Celestial Temple of Aphrodite 🌌
+![Aphrodite Temple](assets/temple-artwork.png)
+
+### Features in Action
+1. **Babylon Flow Timeline**  
+   ![Babylon Flow](assets/babylon-elements.png)
+
+2. **Wave Link Mapping**  
+   ![Wave Mapping](assets/glowing-symbols.png)
 
 ---
 
