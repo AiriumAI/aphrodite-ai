@@ -57,7 +57,7 @@ For every dreamer, creator, and thinker who faces barriers in traditional learni
 
 ### Features in Action
 1. **Babylon Flow Timeline**  
-   ![Babylon Flow](assets/babylon-elements.png)
+   ![Babylon Flow](assets/garden walk.jpg)
 
 2. **Wave Link Mapping**  
    ![Wave Mapping](assets/glowing-symbols.png)
