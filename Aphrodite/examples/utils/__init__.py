@@ -1,5 +1,11 @@
-# Initialize utils module
-from .file_utils import read_file, write_file
-from .data_utils import process_data, clean_data
+__version__ = "1.0.0"
+__all__ = ["visualizations", "utils", "config"]
 
-__all__ = ["read_file", "write_file", "process_data", "clean_data"]
+# Import key functionalities for easy access
+from .visualizations import *
+from .utils import *
+from .config import *
+
+# Package metadata
+__author__ = "Your Name or Organization"
+__license__ = "Apache License 2.0"
