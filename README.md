@@ -56,10 +56,7 @@ For every dreamer, creator, and thinker who faces barriers in traditional learni
 ![Aphrodite Temple](temple-artwork.png)
 
 ### Features in Action
-1. **Babylon Flow Timeline**  
-   ![Babylon Flow](garden walk.jpg)
-
-2. **Wave Link Mapping**  
+1. **Wave Link Mapping**  
    ![Wave Mapping](assets/glowing-symbols.png)
 
 ---
